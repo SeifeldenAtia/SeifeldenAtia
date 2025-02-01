@@ -29,10 +29,12 @@ Before my current projects, I worked extensively with technologies such as Larav
 
 ## 🔧 Projects
 
+- **Tutor**: An ITS (Intelligent Tutoring System) web application for teaching Python. [Check it out here!](https://github.com/AldarKoze/ITS)
+  - Contributions: HTML, CSS, Bootstrap, Angular, MongoDB, and Flask.
+ 
+
 - **Lieferspatz**: A web application for managing a restaurant business. [Check it out here!](https://github.com/mohamed-senhaby/Lieferspatz)
   - Contributions: HTML, CSS, Bootstrap, JavaScript, jQuery, SQLite, EJS, and Express JS.
 
-- **Tutor**: An ITS (Intelligent Tutoring System) web application for teaching Python. [Check it out here!](https://github.com/AldarKoze/ITS)
-  - Contributions: HTML, CSS, Bootstrap, Angular, MongoDB, and Flask.
 
 Feel free to browse through my repositories and don't hesitate to connect!
