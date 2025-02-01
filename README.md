@@ -8,11 +8,19 @@ Hello! I'm Seifelden Atia, a passionate developer specializing in Applied Comput
 
 I've been working as a Werkstudent at Volkswagen Infotainment since August 2023, engaging in software tools development with Agile methodologies like SCRUM. My daily tasks include planning, conceptualizing, implementing, verifying, and documenting new software tools, alongside providing ongoing support for these innovations.
 
-Before my current projects, I worked extensively with technologies such as Laravel, Bootstrap, jQuery, HTML, CSS, JavaScript, and MySQL in the context of Agile, Scrum, Jira, and Confluence environments.
+In my Job, I've been working extensively with technologies such as Laravel, Bootstrap, jQuery, HTML, CSS, JavaScript, and MySQL in the context of Agile, Scrum, Jira, and Confluence environments.
 
 ## 👨‍💻 Tech Stack I Use:
 
-- **Frontend**: HTML, CSS, Bootstrap, JavaScript, jQuery, Angular
+- **Frontend**: HTML, CSS, Bootstrap, JavaScript, jQuery, Angular.
+
+HTML <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="20"/>
+CSS <img src="https://img.icons8.com/color/48/000000/css3.png" width="20"/>
+Bootstrap <img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="20"/>
+JavaScript <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" width="20"/>
+jQuery <img src="https://img.icons8.com/ios-filled/50/000000/jquery.png" width="20"/>
+Angular <img src="https://img.icons8.com/color/48/000000/angularjs.png" width="20"/>
+
 - **Backend**: Express JS (Node JS), Laravel (PHP), Flask (Python)
 - **Project Management**: Agile, Scrum, Jira, Confluence
 - **Version Control**: Git, GitHub
