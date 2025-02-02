@@ -12,7 +12,7 @@ In my Job, I've been working extensively with technologies such as Laravel, Boot
 
 ## 👨‍💻 Tech Stack I Use:
 
-- **Frontend**: HTML, CSS, Bootstrap, JavaScript, Typescript, jQuery, Angular.
+- <b>Frontend</b>: HTML, CSS, Bootstrap, JavaScript, Typescript, jQuery, Angular.
 <div style="white-space: nowrap;">
     <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="60"/>
     <img src="https://img.icons8.com/color/48/000000/css3.png" width="60"/>
@@ -23,7 +23,7 @@ In my Job, I've been working extensively with technologies such as Laravel, Boot
     <img src="https://img.icons8.com/color/48/000000/angularjs.png" width="60"/>
 </div>
 <br>
-- **Backend**: Express JS (Node JS), Laravel (PHP), Flask (Python)
+- <b>Backend</b>: Express JS (Node JS), Laravel (PHP), Flask (Python)
 <div style="white-space: nowrap;">
     <img src="https://img.icons8.com/2266EE/express-js" width="60"/>
     <img src="https://github.com/user-attachments/assets/95b67cf1-149a-4892-903f-437fcbfd32b8" style="margin-right: 10px;" width="50" />
@@ -31,14 +31,14 @@ In my Job, I've been working extensively with technologies such as Laravel, Boot
 </div>
 <br>
 
-- **Project Management**: Agile, Scrum, Jira, Confluence
+- <b>Project Management</b>: Agile, Scrum, Jira, Confluence
 <div style="white-space: nowrap;">
     <img src="https://img.icons8.com/color/48/000000/jira.png" width="50"  />
     <img src="https://img.icons8.com/color/48/000000/confluence.png" width="50"/>
 </div>
 <br>
 
-- **Version Control**: Git, GitHub
+- <b>Version Control</b>: Git, GitHub
 <div style="white-space: nowrap;">
     <img src="https://img.icons8.com/color/48/000000/git.png" width="60"/>
     <img src="https://img.icons8.com/fluency/48/000000/github.png" width="60"/>
