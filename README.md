@@ -2,8 +2,6 @@
 
 Hello! I'm <b>Seifelden Atia</b>, a passionate developer specializing in Applied Computer Science from the University Duisburg-Essen, with a foundational background in Civil Engineering from Alexandria University, Egypt.
 
-![Seifelden Atia](https://github.com/user-attachments/assets/010ca5aa-4640-4146-9f82-9a631169daba)
-
 ## 🚀 About Me!
 
 I've been working as a <b>Werkstudent at Volkswagen Infotainment</b> since August 2023, engaging in software tools development with Agile methodologies like SCRUM. My daily tasks include planning, conceptualizing, implementing, verifying, and documenting new software tools, alongside providing ongoing support for these innovations.
@@ -49,6 +47,7 @@ In my Job, I've been working extensively with technologies such as Laravel, Boot
 
 - [LinkedIn](https://linkedin.com/in/seifelden-atia)
 - [XING](https://xing.com/profile/Seifelden_Atia)
+- [LeetCode](https://leetcode.com/u/SeifeldenAtia/)
 
 ## 📬 Contact Me
 
