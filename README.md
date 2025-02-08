@@ -4,7 +4,7 @@ Hello! I'm <b>Seifelden Atia</b>, a passionate developer specializing in Applied
 
 ## 🚀 About Me!
 
-I've been working as a <b>Werkstudent at Volkswagen Infotainment</b> since August 2023, engaging in software tools development with Agile methodologies like SCRUM. My daily tasks include planning, conceptualizing, implementing, verifying, and documenting new software tools, alongside providing ongoing support for these innovations.
+I've been working as a <b>Working Student at Volkswagen Infotainment</b> since August 2023, engaging in software tools development with Agile methodologies like SCRUM. My daily tasks include planning, conceptualizing, implementing, verifying, and documenting new software tools, alongside providing ongoing support for these innovations.
 
 In my Job, I've been working extensively with technologies such as Laravel, Bootstrap, jQuery, HTML, CSS, JavaScript, and MySQL in the context of Agile, Scrum, Jira, and Confluence environments.
 
